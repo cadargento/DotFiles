@@ -1,0 +1,8 @@
+# General / Meta
+alias supac='sudo pacman -Syu'
+alias srcal='source ~/.aliases'
+alias emal='emacs ~/.aliases'
+alias e='emacs'
+alias l='ls --color=auto'
+alias awesome_dir='pushd ~/.config/awesome'
+alias gc='git clone'
