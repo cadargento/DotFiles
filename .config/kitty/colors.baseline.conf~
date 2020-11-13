@@ -1,0 +1,69 @@
+foreground   #D8DEE9
+background   #2E3440
+cursor       #D8DEE9
+fading       35
+fadeColor    #4C566A
+
+#color0 #6481aa
+#color1 #8c95aa
+#color2 #8088aa
+#color3 #a1a5b6
+#color4 #7677aa 
+#color5 #6363aa 
+#color6 #bab9c5
+#color7 #8d6ca9 
+#color8 #81a6dc
+#color9 #b5c0dc
+#color10 #a5b0dc
+#color11 #cdd2e8
+#color12 #989adc
+#color13 #8080dc
+#color14 #e9e7f7
+#color15 #b68bdb
+
+
+# special
+foreground        #c5c8c6
+foreground_bold   #c5c8c6
+cursor            #c5c8c6
+background        #1d1f21
+
+# black
+color0    #282a2e
+color8    #373b41
+
+# red
+color1    #a54242
+color9    #cc6666
+
+# green
+color2    #8c9440
+color10   #b5bd68
+
+# yellow
+color3    #de935f
+color11   #f0c674
+
+# blue
+color4    #5f819d
+color12   #81a2be
+
+# magenta
+color5    #85678f
+color13   #b294bb
+
+# cyan
+color6    #5e8d87
+color14   #8abeb7
+
+# white
+color7    #707880
+color15   #c5c8c6
+
+
+
+
+
+
+dynamic_background_opacity yes
+background_opacity 0.7
